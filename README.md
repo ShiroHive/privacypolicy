@@ -1,2 +1,2 @@
 # privacypolicy
-privacy policy of endless space
+contains privacy policy of shiroai games.
